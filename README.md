@@ -39,7 +39,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone [https://github.com/yourusername/education-system.git](https://github.com/twoballs-ai/lms_front.git)
+    git clone https://github.com/twoballs-ai/lms_front.git
     ```
 
 2. Установите зависимости:
@@ -55,7 +55,7 @@
 1. Клонируйте репозиторий:
 
     ```bash
-    git clone [https://github.com/yourusername/education-system.git](https://github.com/twoballs-ai/intellity-back-final.git)
+    git clone https://github.com/twoballs-ai/intellity-back-final.git
     ```
 
 2. Создайте виртуальное окружение и активируйте его:
