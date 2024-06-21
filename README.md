@@ -8,6 +8,7 @@
 - https://github.com/twoballs-ai/lms_front
 - **Backend**: Создан на основе FastAPI, обеспечивает быстрый и безопасный доступ к данным и функционалу системы.
 - https://github.com/twoballs-ai/intellity-back-final
+![Uploading image.png…]()
 
 ## Функциональные возможности
 
